@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:            Keshava Bharadwaj
+tagline:          'Cloud, Openstack, Python, Microservices, *.*'
+url:              http://www.keshavabharadwaj.com
+shorturl:         keshavabharadwaj.com
 paginate:            1
-baseurl:             ""
 
 # Assets
 #
@@ -20,11 +20,18 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:           'Keshava Bharadwaj'
+  url:            https://twitter.com/keshavab
+  email:          kb.sankethi@gmail.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:           github.com/keshavab/keshavab.github.io
+
+# List of pages in header of site.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
