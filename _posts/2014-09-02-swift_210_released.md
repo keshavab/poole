@@ -2,8 +2,6 @@
 layout: post
 title: Swift 2.1.0 released
 comments: true
-redirect_from: "/2014/09/02/swift_210_released"
-permalink: swift_210_released
 ---
 
 Swift 2.1.0 is released.  Here’s the summary of features

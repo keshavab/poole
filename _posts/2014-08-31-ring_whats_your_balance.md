@@ -2,8 +2,6 @@
 layout: post
 title: Ring, What’s your balance ?
 comments: true
-redirect_from: "/2014/08/31/ring_whats_your_balance"
-permalink: ring_whats_your_balance
 ---
 
 ![balance](/assets/balance.jpg)

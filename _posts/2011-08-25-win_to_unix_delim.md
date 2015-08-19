@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Converting windows line delimiters into unix delimiters"
-
 comments: true
-redirect_from: "/2011/08/25/win_to_unix_delim"
-permalink: win_to_unix_delim
 ---
 
 The problem of working in windows and later transferring files to unix is that it will have a "^M" character at end of each file. This is because in Windows, lines 

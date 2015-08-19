@@ -2,8 +2,6 @@
 layout: post
 title: "Benchmarking nodejs : comparing nodejs and tomcat"
 comments: true
-redirect_from: "/2011/12/13/benchmarking_nodejs"
-permalink: benchmarking_nodejs
 ---
 
 I've just started exploring nodejs after reading much gung-ho on net about it's scalability and performance.

@@ -2,8 +2,6 @@
 layout: post
 title: Label your devices, luke!
 comments: true
-redirect_from: "/2014/09/04/label_your_device_luke"
-permalink: label_your_device_luke
 ---
 
 ![label](/assets/storage-label.jpg)

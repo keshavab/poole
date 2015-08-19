@@ -2,8 +2,6 @@
 layout: post
 title: "Airtel 4G LTE card + Xubuntu - Making it work"
 comments: true
-redirect_from: "/2013/10/20/airtel_lte_xubuntu"
-permalink: airtel_lte_xubuntu
 ---
 
  I have Xubuntu 12.04 LTS (64-bit) and got a new Airtel 4G LTE usb Card. ( ZTE MF 825a).

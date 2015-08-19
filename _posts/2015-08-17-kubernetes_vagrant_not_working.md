@@ -2,8 +2,6 @@
 layout: post
 title: Kubernetes vagrant - unable to connect to api server
 comments: true
-redirect_from: "/2015/08/17/kubernetes_vagrant_not_working"
-permalink: kubernetes_vagrant_not_working
 tags:
 - kubernetes
 - kube-api

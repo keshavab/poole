@@ -2,8 +2,6 @@
 layout: post
 title: Kitematic freezes at 99%
 comments: true
-redirect_from: "/2015/08/17/kitematic_freeze"
-permalink: kitematic_freeze
 tags:
 - kitematic
 - docker

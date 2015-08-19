@@ -2,8 +2,6 @@
 layout: post
 title: Swift – Object metadata explained
 comments: true
-redirect_from: "/2014/09/24/swift_object_metadata"
-permalink: swift_object_metadata
 ---
 
 ![metadata](/assets/metadata.jpg)
