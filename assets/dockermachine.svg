@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>machine</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(0.000000, -21.000000)"></g>
+        <g id="machine" sketch:type="MSLayerGroup" transform="translate(12.000000, 29.000000)" stroke="#7A8490" stroke-width="2" stroke-linecap="round">
+            <path d="M24.7347451,0.383833333 L65.3763725,9.0522 L24.7347451,0.383833333 Z M65.1006471,32.9971333 L24.5116863,41.6561 L65.1006471,32.9971333 Z M41.5245686,20.9996 C41.5245686,32.5960667 32.228902,41.9976333 20.7630588,41.9976333 C9.29566667,41.9976333 0,32.5960667 0,20.9996 C0,9.40156667 9.29566667,0 20.7630588,0 C32.228902,0 41.5245686,9.40156667 41.5245686,20.9996 L41.5245686,20.9996 Z M75.0732353,20.9996 C75.0732353,27.7253 69.6826471,33.1773 63.0327059,33.1773 C56.3827647,33.1773 50.9921765,27.7253 50.9921765,20.9996 C50.9921765,14.2739 56.3827647,8.8219 63.0327059,8.8219 C69.6826471,8.8219 75.0732353,14.2739 75.0732353,20.9996 L75.0732353,20.9996 Z M25.7323137,20.9996 C25.7323137,23.7741667 23.5079216,26.0254667 20.7630588,26.0254667 C18.0181961,26.0254667 15.7922549,23.7741667 15.7922549,20.9996 C15.7922549,18.2219 18.0181961,15.9721667 20.7630588,15.9721667 C23.5079216,15.9721667 25.7323137,18.2219 25.7323137,20.9996 L25.7323137,20.9996 Z" id="Imported-Layers" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
